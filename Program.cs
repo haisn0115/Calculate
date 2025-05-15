@@ -11,7 +11,7 @@ namespace Grade_Calculator
         static void Main(string[] args)
         {
             int totalStudents = 0;
-            int Ac = 0, Bc = 0, Cc = 0, Sc = 0, Fc = 0;
+            int st1 = 0, st2 = 0, st3 = 0, st4 = 0, st5 = 0;
 
             string ContinueEnterMarks;
 
@@ -25,7 +25,7 @@ namespace Grade_Calculator
                     Console.Write("Enter Marks (out of 100): ");
                     int marks = Convert.ToInt32(Console.ReadLine());
 
-                    string grade = "F";
+                    string grade ="F";
                     if (marks > 75)
                         grade = "A";
                     else if (marks > 65)
@@ -34,15 +34,17 @@ namespace Grade_Calculator
                         grade = "C";
                     else if (marks >= 45)
                         grade = "S";
+                    else 
+                        grade ="F";
 
-                    // Count grade
+                    //  grade Counting
                     switch (grade)
                     {
-                        case "A": Ac++; break;
-                        case "B": Bc++; break;
-                        case "C": Cc++; break;
-                        case "S": Sc++; break;
-                        case "F": Fc++; break;
+                        case "A": st1++; break;
+                        case "B": st2++; break;
+                        case "C": st3++; break;
+                        case "S": st4++; break;
+                        case "F": st5++; break;
                     }
 
                     totalStudents++;
@@ -77,11 +79,11 @@ namespace Grade_Calculator
             // Summary Report
             Console.WriteLine("\n--- Summary Report ---");
             Console.WriteLine("Total Students: " + totalStudents);
-            Console.WriteLine("A Grades: " + Ac);
-            Console.WriteLine("B Grades: " + Bc);
-            Console.WriteLine("C Grades: " + Cc);
-            Console.WriteLine("S Grades: " + Sc);
-            Console.WriteLine("F Grades: " + Fc);
+            Console.WriteLine("A Grades: " + st1);
+            Console.WriteLine("B Grades: " + st2);
+            Console.WriteLine("C Grades: " + st3);
+            Console.WriteLine("S Grades: " + st4);
+            Console.WriteLine("F Grades: " + st5);
 
 
 

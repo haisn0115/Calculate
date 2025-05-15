@@ -10,3 +10,9 @@ D:\UCJ\NVQ 6\Semester_01\Software change management\Grade Calculator\Grade Calcu
 D:\UCJ\NVQ 6\Semester_01\Software change management\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe
 D:\UCJ\NVQ 6\Semester_01\Software change management\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.pdb
 D:\UCJ\NVQ 6\Semester_01\Software change management\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csprojResolveAssemblyReference.cache
+C:\Users\haisan\OneDrive\Desktop\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+C:\Users\haisan\OneDrive\Desktop\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.exe
+C:\Users\haisan\OneDrive\Desktop\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.pdb
+C:\Users\haisan\OneDrive\Desktop\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe
+C:\Users\haisan\OneDrive\Desktop\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.pdb
+C:\Users\haisan\OneDrive\Desktop\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csprojResolveAssemblyReference.cache
