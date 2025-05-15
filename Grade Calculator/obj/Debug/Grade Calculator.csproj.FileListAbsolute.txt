@@ -1,0 +1,12 @@
+E:\UCJ\2025\SCM Exams\01\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+E:\UCJ\2025\SCM Exams\01\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csprojResolveAssemblyReference.cache
+E:\UCJ\2025\SCM Exams\01\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe
+E:\UCJ\2025\SCM Exams\01\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.pdb
+E:\UCJ\2025\SCM Exams\01\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.exe
+E:\UCJ\2025\SCM Exams\01\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.pdb
+C:\Users\haisan\OneDrive\Desktop\Grade Calculator\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+C:\Users\haisan\OneDrive\Desktop\Grade Calculator\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.exe
+C:\Users\haisan\OneDrive\Desktop\Grade Calculator\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.pdb
+C:\Users\haisan\OneDrive\Desktop\Grade Calculator\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe
+C:\Users\haisan\OneDrive\Desktop\Grade Calculator\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.pdb
+C:\Users\haisan\OneDrive\Desktop\Grade Calculator\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csprojResolveAssemblyReference.cache

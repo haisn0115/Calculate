@@ -1,0 +1,12 @@
+E:\UCJ\2025\SCM Exams\01\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+E:\UCJ\2025\SCM Exams\01\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csprojResolveAssemblyReference.cache
+E:\UCJ\2025\SCM Exams\01\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe
+E:\UCJ\2025\SCM Exams\01\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.pdb
+E:\UCJ\2025\SCM Exams\01\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.exe
+E:\UCJ\2025\SCM Exams\01\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.pdb
+D:\UCJ\NVQ 6\Semester_01\Software change management\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+D:\UCJ\NVQ 6\Semester_01\Software change management\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.exe
+D:\UCJ\NVQ 6\Semester_01\Software change management\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.pdb
+D:\UCJ\NVQ 6\Semester_01\Software change management\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe
+D:\UCJ\NVQ 6\Semester_01\Software change management\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.pdb
+D:\UCJ\NVQ 6\Semester_01\Software change management\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csprojResolveAssemblyReference.cache
